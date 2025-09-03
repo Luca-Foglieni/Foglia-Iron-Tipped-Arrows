@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: fogliairontippedarrows
-Specification-Vendor: Foglia
-Specification-Version: 1
-Implementation-Title: Foglia's Iron Tipped Arrows
-Implementation-Version: 1.0-1.20.1
-Implementation-Vendor: Foglia
-Implementation-Timestamp: 2025-09-03T17:06:29+0200
-
