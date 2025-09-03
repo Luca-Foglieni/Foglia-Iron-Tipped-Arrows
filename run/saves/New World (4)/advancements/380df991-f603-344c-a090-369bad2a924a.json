@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-03 18:06:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-09-03 18:06:08 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_tipped_arrow": {
+    "criteria": {
+      "has_feather": "2025-09-03 18:08:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-09-03 18:08:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-03 18:08:30 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
